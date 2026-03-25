@@ -15,11 +15,14 @@ Core structured knowledge, organized by domain.
 - marketing/
 - copywriting/
 - frameworks/
+- index.md (complete knowledge index)
 
 Each file:
 - Covers one concept
 - Is self-contained
 - Includes metadata for retrieval and reuse
+
+See [@knowledge/index.md](knowledge/index.md) for a complete list of all knowledge entries.
 
 ### /modules
 Optional extracted modules for direct prompt insertion.
