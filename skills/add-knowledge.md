@@ -101,21 +101,6 @@ format: ...
 
 ---
 
-## Rules
-- One file = one concept
-- No duplication of existing knowledge
-- Keep concise
-- Optimize for reuse in prompts
-
----
-
-## Validation Checklist
-- [ ] Metadata present
-- [ ] Correct domain
-- [ ] Clear structure
-- [ ] No fluff
-- [ ] File placed correctly
-
 ### 8. Update Knowledge Index (Required)
 
 After creating a new knowledge file:
@@ -134,3 +119,53 @@ Rules:
 - Keep alphabetical order within the domain
 - Do not duplicate entries
 - Ensure formatting matches existing index
+
+---
+
+## Rules
+- One file = one concept
+- No duplication of existing knowledge
+- Keep concise
+- Optimize for reuse in prompts
+
+---
+
+## Validation Checklist
+- [ ] Metadata present
+- [ ] Correct domain
+- [ ] Clear structure
+- [ ] No fluff
+- [ ] File placed correctly
+
+---
+
+## For Outer Collaborators
+
+If you're not a direct repository contributor, follow this workflow:
+
+### 1. Fork the Repository
+```bash
+gh repo fork --clone
+```
+
+### 2. Create a Branch
+```bash
+git checkout -b add/<knowledge-topic>
+# Example: git checkout -b add/cold-email-framework
+```
+
+### 3. Make Changes
+- Add your knowledge file following the format above
+- Update `/knowledge/index.md` with your entry
+
+### 4. Commit and Push
+```bash
+git add .
+git commit -m "Add <knowledge-topic>"
+git push origin <branch-name>
+```
+
+### 5. Open a Pull Request
+```bash
+gh pr create --title "Add <knowledge-topic>" --body "Description of the knowledge being added"
+```
