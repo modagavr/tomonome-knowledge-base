@@ -115,3 +115,22 @@ format: ...
 - [ ] Clear structure
 - [ ] No fluff
 - [ ] File placed correctly
+
+### 8. Update Knowledge Index (Required)
+
+After creating a new knowledge file:
+
+- Open /knowledge/index.md
+- Add a new entry under the correct domain section
+
+Entry format:
+
+### <Title>
+- Path: /knowledge/<domain>/<filename>.md
+- Tags: tag1, tag2, tag3
+- Summary: 1-line description
+
+Rules:
+- Keep alphabetical order within the domain
+- Do not duplicate entries
+- Ensure formatting matches existing index
