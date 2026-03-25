@@ -7,6 +7,11 @@
 - Tags: customer-demand, sales, product-market-fit, icp, buying-behavior
 - Summary: Framework for identifying customers in "blocked demand" state who would be weird not to buy your product.
 
+### Sunrise Playbook (Inverted Idea Stage)
+- Path: /knowledge/frameworks/sunrise-playbook.md
+- Tags: demand-validation, enterprise-sales, product-market-fit, startup-strategy, customer-commitment
+- Summary: Framework for validating startup ideas by securing buyer demand before building product.
+
 ## Sales
 
 ### B2B Sales Call Script
