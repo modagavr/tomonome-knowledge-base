@@ -2,6 +2,11 @@
 
 ## Frameworks
 
+### Ideal Client Profile (ICP) Reframe
+- Path: /knowledge/frameworks/ideal-client-profile-reframe.md
+- Tags: icp, customer-demand, sales, product-market-fit, buying-behavior, demand-side-strategy
+- Summary: Reframe for identifying true ICP as customers who would be "weird not to buy" based on demand-side strategy.
+
 ### PULL Framework
 - Path: /knowledge/frameworks/pull-framework.md
 - Tags: customer-demand, sales, product-market-fit, icp, buying-behavior
