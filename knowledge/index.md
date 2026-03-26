@@ -39,6 +39,11 @@
 - Tags: b2b, sales, calls, discovery, pull-framework
 - Summary: Compact 6-step sales call structure using PULL framework for discovery, qualification, and closing.
 
+### Cold Email Outreach Framework
+- Path: /knowledge/sales/cold-email-outreach-framework.md
+- Tags: cold-email, b2b, lead-generation, outreach, deliverability, prospecting
+- Summary: Technical and tactical system for scalable B2B cold email achieving 70% open rate and 10-15% reply rate.
+
 ### Pipeline Mega Post
 - Path: /knowledge/sales/pipeline-mega-post.md
 - Tags: pipeline-generation, founder-magic, toll-booth, customer-contact, pre-pmf, post-pmf
