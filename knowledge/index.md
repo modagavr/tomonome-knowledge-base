@@ -37,6 +37,11 @@
 - Tags: outreach, allbound, demand-generation, email, linkedin
 - Summary: Complete framework for unified inbound+outbound pipeline generation with demand gen activities and referral strategies
 
+### B2B Pipeline Generation Framework
+- Path: /knowledge/frameworks/b2b-pipeline-generation-framework.md
+- Tags: pipeline, b2b, revenue-growth, bowtie-model, lead-velocity
+- Summary: Core revenue growth model with bowtie pipeline visualization and four growth levers
+
 ## Sales
 
 ### B2B Sales Call Script
