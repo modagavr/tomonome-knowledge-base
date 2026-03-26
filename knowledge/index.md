@@ -47,6 +47,11 @@
 - Tags: gtm, acv, sales-motion, segmentation, touch-level
 - Summary: ACV-based GTM motion framework with touch levels, activities, and TAM sizing strategies
 
+### Intent Signals Framework
+- Path: /knowledge/frameworks/intent-signals-framework.md
+- Tags: intent-data, signals, prospecting, b2b, qualification
+- Summary: Three-tier intent signal classification with strength ratings and processing framework
+
 ## Sales
 
 ### B2B Sales Call Script
