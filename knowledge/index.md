@@ -12,6 +12,11 @@
 - Tags: pull-intensity, logarithmic-demand, buyer-effort, startup-growth, icp-iteration
 - Summary: Framework showing demand intensity is logarithmic—small increases in buyer intensity exponentially reduce seller effort.
 
+### Blocked or Coping (PULL Framework)
+- Path: /knowledge/frameworks/blocked-or-coping.md
+- Tags: pull-framework, demand-side, customer-tension, validation, buyer-behavior
+- Summary: Framework identifying two types of PULL: Coping (active struggle) and Blocked (hidden demand waiting to be unlocked).
+
 ### PULL Framework
 - Path: /knowledge/frameworks/pull-framework.md
 - Tags: customer-demand, sales, product-market-fit, icp, buying-behavior
