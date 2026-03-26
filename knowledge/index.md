@@ -29,6 +29,11 @@
 - Tags: pipeline-generation, founder-magic, toll-booth, customer-contact, pre-pmf, post-pmf
 - Summary: Framework for generating pipeline through Founder Magic (pre-PMF) and Toll Booth (post-PMF) strategies.
 
+### Sales Sprint for 0-1 Sales
+- Path: /knowledge/sales/sales-sprint-0-1.md
+- Tags: sales-sprint, 0-1-sales, pull-framework, demand-validation, customer-discovery
+- Summary: Rapid experimentation methodology for finding customers who are "weird not to buy" before building product.
+
 ### Ideal Client Profile Reframe
 - Path: /knowledge/sales/ideal-client-profile-reframe.md
 - Tags: ideal-client-profile, icp, demand-side, sales-strategy, customer-selection
