@@ -64,6 +64,261 @@ Map content types to funnel stages:
 
 ---
 
+## Strategic Marketing Architecture for Content Planning
+
+Before executing content creation, understand the broader go-to-market context that shapes content strategy.
+
+### Context Initialization
+
+**Startup Profile:**
+
+- Company: [Name and 1-sentence value proposition]
+- Stage: [Pre-product/MVP/Early revenue/Growth stage]
+- Industry/Category: [Specific vertical + whether you're creating new category or competing in existing one]
+- Product/Service: [What you're selling and the core problem it solves]
+- Current state: [Team size, runway, monthly burn, current revenue if any, user/customer count]
+
+**Target Market Fundamentals:**
+
+- Primary customer segment: [Be specific - not "small businesses" but "5-50 person B2B SaaS companies in fintech with $2M-$10M ARR"]
+- Customer's current alternative: [What are they doing today instead of using your product?]
+- Economic buyer vs end user: [Who signs the check vs who uses the product daily?]
+- Deal size & sales cycle: [Average contract value and typical time from first touch to closed deal]
+
+### Strategic Foundation Development
+
+#### Phase 1: Market Position & Narrative Architecture
+
+Develop the strategic positioning that will guide all content decisions:
+
+1. **Category Strategy Decision**
+    - Are you competing in an existing category or creating a new one?
+    - If existing: What's your differentiated position? (Don't say "better features" - what's the philosophical difference?)
+    - If new category: What's the incumbent behavior you're replacing? What's your "X for Y" bridge concept?
+
+2. **Value Proposition Hierarchy**
+    Articulate at three levels:
+    - **Functional value**: The literal capability/outcome (quantified if possible)
+    - **Economic value**: The ROI/cost savings/revenue impact (with realistic calculation methodology)
+    - **Emotional/strategic value**: The status, risk mitigation, or strategic advantage (what gets the champion promoted?)
+
+3. **Competitive Moat Identification**
+    What prevents copycats in months 6-18? Options:
+    - Network effects (requires specific mechanics)
+    - Proprietary data/IP (must be actually defensible)
+    - Brand/community (takes years to build)
+    - Operational complexity (sustainable if you have unfair advantage)
+    - Regulatory barriers (double-edged sword)
+    
+    **Critical constraint**: Your moat must be realistic for your stage. Pre-revenue startups don't have moats yet - identify your *path* to a moat.
+
+4. **Messaging Framework**
+    Construct the narrative stack:
+    - **Big shift**: What macro trend makes this the right time? (AI adoption, remote work, regulatory change, etc.)
+    - **Problem crystallization**: Make the pain vivid and urgent - why does status quo fail *now*?
+    - **Your unique insight**: What do you understand about the market/customer that incumbents miss?
+    - **Solution introduction**: Present your product as inevitable consequence of your insight
+    - **Proof points**: What evidence builds credibility at your stage? (Design partners, early metrics, team credentials, existing traction)
+
+#### Phase 2: Channel Strategy Selection
+
+Analyze each channel through startup-appropriate lens:
+
+**For B2B/SaaS:**
+
+1. **Founder-led Sales** (Essential for first 10-50 customers)
+    - Ideal customer profile: [Specific firmographics + psychographics]
+    - Outbound methodology: [Personalized email/LinkedIn/warm intros - pick one to master first]
+    - Conversion milestones: [Reply rate → meeting rate → demo-to-trial → trial-to-paid]
+    - What founder learns: [What objections reveal about product-market fit]
+
+2. **Content/SEO** (3-12 month payoff)
+    - Search intent mapping: What do customers Google when experiencing the problem?
+    - Content formats: [Prioritize bottom-funnel "how to [solve problem]" over thought leadership initially]
+    - Distribution strategy: [Where does your audience actually consume content?]
+    - Realistic timeline: [Month-by-month traffic projections based on domain authority + competitive analysis]
+
+3. **Product-Led Growth** (If applicable)
+    - Self-serve feasibility: [Can users activate without sales involvement?]
+    - Viral/network mechanics: [Does product get better with more users? Is there native sharing?]
+    - Monetization moment: [At what point of value delivery do you ask for money?]
+    - PLG math: [Conversion rates at each funnel stage + CAC payback period]
+
+4. **Partnerships/Integrations**
+    - Strategic rationale: [Does partner have your customers and distribution?]
+    - Value exchange: [What do you give them beyond revenue share?]
+    - Integration depth: [Listed in marketplace vs deep native integration]
+    - Reality check: [Enterprise partnerships take 6-18 months - do you have runway?]
+
+5. **Paid Acquisition**
+    - Channel selection: [Google/LinkedIn/Facebook - pick based on where buying decisions happen]
+    - Unit economics requirement: [LTV must be 3x+ CAC for venture-scale, 5x+ for bootstrapped]
+    - Testing budget: [$5-10K minimum to get signal in B2B, $2-5K for B2C]
+    - Scaling threshold: [At what CAC/conversion rate does channel become primary?]
+
+**Channel Prioritization Framework:**
+
+Rank each channel by:
+
+- **Time to first customer**: [Days/weeks/months]
+- **Scalability ceiling**: [Can this get you to $1M ARR? $10M?]
+- **Capital efficiency**: [Cost per qualified lead/customer]
+- **Learnings value**: [Does this channel teach you about product-market fit?]
+- **Founder skill fit**: [Do you have unfair advantage in this channel?]
+
+**Strategic recommendation**: Pick ONE primary channel and ONE secondary. Startups die from channel diffusion.
+
+#### Phase 3: 90-Day Campaign Architecture
+
+Design your content campaigns with built-in learning loops:
+
+**Sprint 1 (Days 1-30): Signal Generation**
+
+- **Goal**: Validate that target customer segment recognizes problem as urgent
+- **Tactics**:
+    - [Primary channel]: [Specific campaign with measurable KPI]
+    - [Secondary channel]: [Specific campaign with measurable KPI]
+- **Success metrics**: [Response rate, meeting booking rate, quality of conversations]
+- **Kill criteria**: [At what point do you pivot segment/message?]
+
+**Sprint 2 (Days 31-60): Conversion Optimization**
+
+- **Goal**: Move interested prospects through to product trial/demo
+- **Tactics**:
+    - Refine messaging based on Sprint 1 objections
+    - Develop demo/trial enablement: [Sales deck, demo environment, onboarding sequence]
+    - Create proof points: [Case studies, ROI calculator, comparison pages]
+- **Success metrics**: [Demo-to-trial rate, trial activation rate, time-to-value]
+- **Optimization focus**: [Where is friction highest in funnel?]
+
+**Sprint 3 (Days 61-90): Early Scaling**
+
+- **Goal**: Achieve predictable customer acquisition motion
+- **Tactics**:
+    - Double down on highest-converting channel
+    - Systematize outreach/follow-up
+    - Begin content/SEO foundation for longer-term plays
+- **Success metrics**: [MQL→SQL→Customer conversion rates, CAC, sales cycle length]
+- **Scale decision**: [At what point do you hire first marketing/sales person?]
+
+#### Phase 4: Metrics & Financial Framework
+
+**Marketing Dashboard Requirements**
+
+Track metrics at three levels:
+
+**1. Vanity Metrics** (directionally interesting, not actionable)
+
+- Website traffic, social followers, content views
+- **Use case**: Board updates and morale, not decision-making
+
+**2. Health Metrics** (indicate channel/message effectiveness)
+
+- Email open/reply rates, ad CTR, landing page conversion rate
+- Content engagement time, demo request rate, trial activation rate
+- **Use case**: Tactical optimization of campaigns
+
+**3. Business Metrics** (actual startup survival indicators)
+
+- Customer Acquisition Cost (CAC) by channel
+- Payback period (months to recover CAC)
+- Magic Number (net new ARR / sales & marketing spend)
+- Customer Lifetime Value (LTV) with realistic churn assumptions
+- **Use case**: Strategic resource allocation and fundraising narrative
+
+**Financial Discipline Protocol:**
+
+For each marketing investment, calculate:
+
+```
+Expected CAC = (Channel spend + allocated time cost) / Expected customers
+LTV/CAC ratio = (Average contract value × expected lifetime) / CAC
+Payback period = CAC / (Monthly recurring revenue per customer)
+```
+
+**Decision rule**:
+
+- Venture-backed: LTV/CAC > 3x, payback < 12 months
+- Bootstrapped: LTV/CAC > 5x, payback < 6 months
+
+#### Phase 5: Risk Mitigation & Constraint Acknowledgment
+
+**Common Startup Marketing Failure Modes**
+
+Address these explicitly:
+
+1. **Premature scaling**: Spending on acquisition before product-market fit is proven
+    - **Prevention**: Set strict "PMF gates" (retention rate, NPS, organic referrals)
+    - **Rule**: No paid acquisition scale until 3+ months of cohort retention data
+
+2. **Diffusion of effort**: Trying every channel simultaneously
+    - **Prevention**: Written channel prioritization with kill criteria
+    - **Rule**: Maximum 2 active channels until one generates 50%+ of pipeline
+
+3. **Vanity metric optimization**: Optimizing for traffic/impressions over revenue
+    - **Prevention**: Compensation and OKRs tied to revenue, not awareness
+    - **Rule**: Every campaign must have projected ROI calculation upfront
+
+4. **Founder bottleneck**: All marketing depends on founder's personal network
+    - **Prevention**: Document and systematize what founder does that works
+    - **Rule**: Build repeatable process by customer 20, not customer 100
+
+5. **Message-market misalignment**: Saying what you want to say vs what customer needs to hear
+    - **Prevention**: Record every sales call, analyze objections weekly
+    - **Rule**: Message testing with 20+ target customers before campaign launch
+
+### Content Strategy Output Requirements
+
+Generate a comprehensive content strategy document including:
+
+**1. Executive Summary** (1 page)
+
+- Market opportunity and positioning
+- Primary customer segment and their urgent problem
+- Go-to-market motion (channel + campaign approach)
+- 90-day targets and resource requirements
+- Key risks and mitigation strategies
+
+**2. Strategic Foundation** (2-3 pages)
+
+- Complete messaging framework with proof points
+- Competitive positioning and moat strategy
+- Channel selection rationale with prioritization
+- Unit economics model and assumptions
+
+**3. 90-Day Execution Plan** (2-3 pages)
+
+- Week-by-week campaign calendar
+- Specific tactics with owners and budgets
+- Success metrics and kill criteria for each initiative
+- Resource requirements (people, tools, budget)
+
+**4. Measurement Framework** (1 page)
+
+- Marketing dashboard with realistic targets
+- CAC/LTV model by channel
+- Weekly review cadence and decision triggers
+
+**5. Constraint & Risk Register** (1 page)
+
+- Top 5 risks to plan execution
+- Mitigation strategies and contingency plans
+- Realistic assessment of what you don't know yet
+
+**Critical Success Factors:**
+
+This strategy should:
+
+- ✓ Be implementable with your actual team and budget
+- ✓ Generate learnings even if campaigns "fail"
+- ✓ Have clear go/no-go decision points based on data
+- ✓ Acknowledge uncertainty while maintaining direction
+- ✓ Focus on revenue impact, not marketing theater
+
+**The ultimate test**: Could you show this to a seasoned CMO or venture investor and have them say "this person understands startup marketing dynamics"?
+
+---
+
 ## Instructions
 
 ### 1. Select Source Knowledge
