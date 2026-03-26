@@ -34,6 +34,11 @@
 - Tags: sales-sprint, 0-1-sales, pull-framework, demand-validation, customer-discovery
 - Summary: Rapid experimentation methodology for finding customers who are "weird not to buy" before building product.
 
+### Buyer-Pull vs Seller-Push Sales Methodology
+- Path: /knowledge/sales/buyer-pull-vs-seller-push.md
+- Tags: buyer-pull, seller-push, sales-strategy, demand-alignment, b2b-sales
+- Summary: Sales methodology contrasting buyer-driven demand (PULL) vs seller-driven persuasion (PUSH) across all sales stages.
+
 ### Ideal Client Profile Reframe
 - Path: /knowledge/sales/ideal-client-profile-reframe.md
 - Tags: ideal-client-profile, icp, demand-side, sales-strategy, customer-selection
