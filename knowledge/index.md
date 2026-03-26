@@ -2,6 +2,11 @@
 
 ## Frameworks
 
+### Customer Understanding Through Observation
+- Path: /knowledge/frameworks/customer-understanding-observation.md
+- Tags: customer-discovery, observation, pull-framework, jtbd, validation
+- Summary: Framework for understanding customers through firsthand observation using Calendar/To-Do List model and PULL hypothesis.
+
 ### PULL Framework
 - Path: /knowledge/frameworks/pull-framework.md
 - Tags: customer-demand, sales, product-market-fit, icp, buying-behavior
