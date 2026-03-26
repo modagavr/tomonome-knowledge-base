@@ -54,6 +54,11 @@
 - Tags: buyer-pull, seller-push, sales-strategy, demand-alignment, b2b-sales
 - Summary: Sales methodology contrasting buyer-driven demand (PULL) vs seller-driven persuasion (PUSH) across all sales stages.
 
+### Three Sales Pathologies (Helpful, Noble, Smart)
+- Path: /knowledge/sales/three-sales-pathologies.md
+- Tags: sales-calls, founder-mistakes, customer-focus, sales-structure, pull-framework
+- Summary: Identifies three ego-driven behaviors that cause sales calls to fail: Helpful, Smart, and Noble pathologies.
+
 ### Ideal Client Profile Reframe
 - Path: /knowledge/sales/ideal-client-profile-reframe.md
 - Tags: ideal-client-profile, icp, demand-side, sales-strategy, customer-selection
