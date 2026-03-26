@@ -27,6 +27,11 @@
 - Tags: demand-validation, enterprise-sales, product-market-fit, startup-strategy, customer-commitment
 - Summary: Framework for validating startup ideas by securing buyer demand before building product.
 
+### Spotlight Framework for Customer Feedback
+- Path: /knowledge/frameworks/spotlight-framework-feedback.md
+- Tags: customer-feedback, feedback-analysis, product-marketing, positioning, user-experience
+- Summary: Categorizes customer feedback by question structure to identify root issue: UX, Marketing, or Positioning.
+
 ## Sales
 
 ### B2B Sales Call Script
