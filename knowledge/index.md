@@ -48,3 +48,10 @@
 - Path: /knowledge/sales/ideal-client-profile-reframe.md
 - Tags: ideal-client-profile, icp, demand-side, sales-strategy, customer-selection
 - Summary: ICP is who would be weird not to buy—focus on customers with active projects and bad alternatives.
+
+## Marketing
+
+### How to Describe Your Product Quickly
+- Path: /knowledge/marketing/how-to-describe-your-product-quickly.md
+- Tags: product-positioning, messaging, pull-framework, infomercial-structure, value-prop
+- Summary: Infomercial structure for product descriptions: articulate customer's PULL before introducing supply.
