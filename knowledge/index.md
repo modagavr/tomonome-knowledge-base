@@ -24,6 +24,11 @@
 - Tags: b2b, sales, calls, discovery, pull-framework
 - Summary: Compact 6-step sales call structure using PULL framework for discovery, qualification, and closing.
 
+### Pipeline Mega Post
+- Path: /knowledge/sales/pipeline-mega-post.md
+- Tags: pipeline-generation, founder-magic, toll-booth, customer-contact, pre-pmf, post-pmf
+- Summary: Framework for generating pipeline through Founder Magic (pre-PMF) and Toll Booth (post-PMF) strategies.
+
 ### Ideal Client Profile Reframe
 - Path: /knowledge/sales/ideal-client-profile-reframe.md
 - Tags: ideal-client-profile, icp, demand-side, sales-strategy, customer-selection
