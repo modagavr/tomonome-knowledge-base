@@ -42,6 +42,11 @@
 - Tags: pipeline, b2b, revenue-growth, bowtie-model, lead-velocity
 - Summary: Core revenue growth model with bowtie pipeline visualization and four growth levers
 
+### GTM Strategy by Deal Size
+- Path: /knowledge/frameworks/gtm-strategy-by-acv.md
+- Tags: gtm, acv, sales-motion, segmentation, touch-level
+- Summary: ACV-based GTM motion framework with touch levels, activities, and TAM sizing strategies
+
 ## Sales
 
 ### B2B Sales Call Script
