@@ -7,6 +7,11 @@
 - Tags: customer-discovery, observation, pull-framework, jtbd, validation
 - Summary: Framework for understanding customers through firsthand observation using Calendar/To-Do List model and PULL hypothesis.
 
+### Exponential Pull
+- Path: /knowledge/frameworks/exponential-pull.md
+- Tags: pull-intensity, logarithmic-demand, buyer-effort, startup-growth, icp-iteration
+- Summary: Framework showing demand intensity is logarithmic—small increases in buyer intensity exponentially reduce seller effort.
+
 ### PULL Framework
 - Path: /knowledge/frameworks/pull-framework.md
 - Tags: customer-demand, sales, product-market-fit, icp, buying-behavior
