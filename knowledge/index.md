@@ -18,3 +18,8 @@
 - Path: /knowledge/sales/b2b-sales-call-script.md
 - Tags: b2b, sales, calls, discovery, pull-framework
 - Summary: Compact 6-step sales call structure using PULL framework for discovery, qualification, and closing.
+
+### Ideal Client Profile Reframe
+- Path: /knowledge/sales/ideal-client-profile-reframe.md
+- Tags: ideal-client-profile, icp, demand-side, sales-strategy, customer-selection
+- Summary: ICP is who would be weird not to buy—focus on customers with active projects and bad alternatives.
