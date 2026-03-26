@@ -32,6 +32,11 @@
 - Tags: customer-feedback, feedback-analysis, product-marketing, positioning, user-experience
 - Summary: Categorizes customer feedback by question structure to identify root issue: UX, Marketing, or Positioning.
 
+### Allbound Outreach Framework
+- Path: /knowledge/frameworks/allbound-outreach-framework.md
+- Tags: outreach, allbound, demand-generation, email, linkedin
+- Summary: Complete framework for unified inbound+outbound pipeline generation with demand gen activities and referral strategies
+
 ## Sales
 
 ### B2B Sales Call Script
