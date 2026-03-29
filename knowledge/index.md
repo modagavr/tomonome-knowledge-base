@@ -2,6 +2,11 @@
 
 ## Frameworks
 
+### Customer Language 101
+- Path: /knowledge/frameworks/customer-language-101.md
+- Tags: customer-discovery, demand-validation, pull-framework, customer-interviews, signal-detection
+- Summary: Framework for decoding customer language by separating demand signals (goals) from supply signals (tools) during interviews.
+
 ### Customer Understanding Through Observation
 - Path: /knowledge/frameworks/customer-understanding-observation.md
 - Tags: customer-discovery, observation, pull-framework, jtbd, validation
