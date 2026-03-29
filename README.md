@@ -1,6 +1,14 @@
 # Marketing Knowledge Base
 
-This repository contains a structured knowledge base designed for use with AI systems, agents, and prompt-based workflows.
+[![Marketing Knowledge Base Banner](assets/banner.png)](https://tomonome.com)
+
+![GitHub stars](https://img.shields.io/github/stars/modagavr/tomonome-knowledge-base)
+![License](https://img.shields.io/github/license/modagavr/tomonome-knowledge-base)
+![Last commit](https://img.shields.io/github/last-commit/modagavr/tomonome-knowledge-base)
+![AI Optimized](https://img.shields.io/badge/AI-Optimized-blue)
+![LLM Compatible](https://img.shields.io/badge/LLM-Compatible-green)
+
+A structured, modular knowledge base designed for AI systems, large language models (LLMs), and agent-based workflows. Contains reusable, high-density marketing, sales, and copywriting knowledge optimized for prompt engineering and automation.gned for use with AI systems, agents, and prompt-based workflows.
 
 ## Purpose
 - Serve as a source of truth for marketing, sales, and growth knowledge
