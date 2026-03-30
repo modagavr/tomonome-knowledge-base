@@ -94,6 +94,11 @@
 - Tags: ideal-client-profile, icp, demand-side, sales-strategy, customer-selection
 - Summary: ICP is who would be weird not to buy—focus on customers with active projects and bad alternatives.
 
+### Pre-PMF B2B Sales Pipeline (Agent Input-Output Pairs)
+- Path: /knowledge/sales/pre-pmf-b2b-pipeline-agents.md
+- Tags: pre-pmf, pipeline, agents, pull-framework, founder-magic, demand-validation, sales-sprint, cold-email, calendar-booking
+- Summary: 10-step agent pipeline (including Email Sequence Executor) for early-stage B2B startups with hypothetical PMF, chaining from founder brief through cold email sequence with calendar booking to PULL validation and deal advancement.
+
 ## Marketing
 
 ### How to Describe Your Product Quickly
