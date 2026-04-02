@@ -96,27 +96,53 @@ Designed for early-stage B2B startups with a **hypothetical PMF**: the founder h
 **Agent:** Outreach Writer (Founder Magic Mode)
 
 **Input:**
-- Single prospect profile from Stage 3 (tier + context + signals)
+- Single prospect record from Stage 3, including:
+  - company, contact, role, and recommended outreach channel
+  - freshest signal(s) with date and source
+  - urgency trigger observed
+  - current tool / approach identified
+  - inferred PULL type: Coping / Blocked / Coping (urgency-amplified)
+  - tier, contact notes, and Goblin Mode eligibility
 - PULL Hypothesis Card from Stage 1
-- Founder identity: unique angle, background, or weirdness to leverage
+- Founder identity packet:
+  - founder name, role, and company
+  - relevant background, obsession, or weirdness to leverage
+  - one honest reason the conversation is different from generic outbound
+  - any concrete artifact they can offer (teardown, observation, benchmark, list)
 
 **Output:**
-- Primary outreach (email or LinkedIn message):
-  - Subject / opening: references *their* situation, not product ROI
-  - Body: sells the *conversation*, not the product
-  - Hook: founder uniqueness or weirdness — makes declining irrational
-  - CTA: single low-friction ask (15-min call, or a yes/no question)
-- One follow-up variant (if no response in 3–5 days)
-- Tone flag: `personal-founder` (not sales email, not spam)
-- Approach flag: `Goblin Mode available` if Tier 1 with no response (physical visit, gift, extreme tactic)
+- Founder Magic Outreach Package:
+  - Message strategy:
+    - primary signal anchor
+    - emotional frame based on PULL type
+    - founder angle selected
+    - CTA type matched to channel
+  - Primary outreach asset:
+    - **Email:** subject + plain-text body with a single CTA and `[CALENDAR_URL]` placeholder when booking is the ask
+    - **LinkedIn DM:** low-key message that sells the conversation, not the product
+    - **LinkedIn connection:** empty request preferred; pitch only after acceptance
+  - One follow-up variant:
+    - sent 3-5 days later
+    - different angle, not a bump
+    - same single-CTA discipline
+  - Execution mode:
+    - `email_ready` when Stage 5 can send immediately
+    - `manual_channel_only` when the first touch is LinkedIn-first
+    - `nurture_only` when signal strength is too weak for direct outreach
+  - QA / routing flags:
+    - tone flag: `personal-founder`
+    - approach flag: `standard-founder-magic` / `goblin-mode-available` / `nurture-only`
+    - evidence note: exact signal used for personalization
 
 **Rules enforced:**
-- No ROI claims — they haven't been validated yet
-- No product pitch — sell the conversation only
-- No traditional sales structure ("I'd love to show you how...")
-- Persona: founder reaching out, not SDR
+- One real signal, one founder angle, one CTA
+- Sell the conversation, not the product, deck, or demo
+- No ROI claims, case-study flexing, or broad platform pitch
+- No fake personalization, generic compliments, or speculative claims
+- No pitch in the first LinkedIn connection request
+- Tier 3 or weak-signal prospects route to nurture, not direct outreach
 
-**Source frameworks:** Pipeline Mega Post (Founder Magic), Allbound Outreach Framework, Buyer-Pull vs Seller-Push
+**Source frameworks:** Pipeline Mega Post (Founder Magic), Allbound Outreach Framework, Buyer-Pull vs Seller-Push, Cold Email Outreach Framework
 
 ---
 
