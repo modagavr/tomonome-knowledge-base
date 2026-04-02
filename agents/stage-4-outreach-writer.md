@@ -219,6 +219,8 @@ The message structure must follow the channel recommended by Stage 3.
 - No subject line
 - No external links in the first cold DM
 - CTA should be a low-friction reply ask, not a heavy book-a-call ask unless signal strength is exceptional
+- **Tone:** write as if from a mobile phone. Short sentences. Lowercase starts are acceptable. Use domain vocabulary over paraphrases (e.g. "IAA" not "inter-annotator disagreement", "patho" not "pathology", "HITL" not "human-in-the-loop review", "calibration rounds" not "calibration process", "policy versioning" not "policy management"). CTA should feel like a peer question, not a sales close: "already yours?", "hitting your team yet?", "live on your side?" — not "Would you be open to exploring this together?"
+- **Word choice rules:** avoid adverbs that soften artificially ("quietly", "essentially", "naturally", "understandably"). Avoid "problem" as a standalone noun — it pattern-matches to sales copy; instead reference the specific operational consequence ("the calibration overhead", "that coordination layer", "keeping policy tied to batches").
 
 #### If `outreach_channel = linkedin_connection`
 
@@ -288,6 +290,12 @@ The body should do only three jobs:
 - ROI promises
 - "Save money / make money" language before demand is validated
 
+**Vocabulary rules:**
+- Use domain-specific shorthand when writing to technical buyers: IAA, HITL, patho, calibration rounds, policy versioning, batches, golden set, SLA tracking. These signal peer knowledge and compress the message naturally.
+- Avoid words that expose the outreach pattern: "problem", "solution", "pain", "challenge", "streamline", "optimize", "leverage", "synergy", "unlock", "empower". Replace each with the specific operational situation.
+- Avoid softening adverbs that read as copywriter padding: "quietly", "naturally", "essentially", "truly", "simply", "basically". Cut them.
+- Avoid corporate framing of the founder's experience: "I have extensive experience in..." → "I had to build around that at OneCell" or "ran that at OneCell".
+
 ### Step 7 — Choose the CTA and Build the Follow-up
 
 There must be **exactly one CTA** in the initial message.
@@ -341,6 +349,9 @@ Before returning output, verify all of the following:
 - [ ] If email is primary, `[CALENDAR_URL]` appears verbatim in every email body that asks for booking
 - [ ] Follow-up is not a bump and uses a genuinely different angle
 - [ ] Tier 3 / nurture-only prospects are not given direct outreach copy
+- [ ] No pattern-exposing words appear in message bodies: "problem", "solution", "pain", "challenge", "streamline", "optimize", "leverage", "unlock", "empower"
+- [ ] No softening adverbs appear: "quietly", "naturally", "essentially", "truly", "simply"
+- [ ] LinkedIn DMs use domain shorthand where applicable rather than spelled-out paraphrases
 
 ---
 
@@ -439,6 +450,7 @@ Before returning output, verify all of the following:
 | **Bump follow-up** | Second message says nothing new | Shift angle. Add a fresh observation, artifact, or lower-friction ask. |
 | **Connection-request pitch** | Selling in the LinkedIn connection note | Keep the request empty or minimal. The first real message comes after acceptance. |
 | **Tier 3 misuse** | Writing direct outbound for weak-signal prospects | Return nurture-only guidance instead of direct outreach. |
+| **Corporate polish** | Message reads professionally but not humanly: long compound sentences, polished transitions, capitalised openers, absence of domain shorthand | Strip to short sentences. Use domain vocab (IAA, HITL, patho, calibration rounds). Lower case starts. Make the CTA a peer question. The test: could a founder type this on their phone in two minutes? |
 
 ---
 
