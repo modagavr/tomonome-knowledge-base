@@ -99,3 +99,15 @@ format: <framework | guide | checklist | script>
 
 Example:
 b2b-sales-call-script.md
+
+## Running the helper script
+
+A tiny helper script is available to select an agent spec and an input file with `fzf`, concatenate them, and copy the result to the macOS clipboard with `pbcopy`.
+
+Usage:
+
+```bash
+./scripts/run-agent.sh
+```
+
+The script will prompt for a spec and an input file, then copy the combined prompt to your clipboard.
